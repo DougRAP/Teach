@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Teach — explain it to me like I am…",
+  title: "TriviaMate — learn anything, then prove it",
   description:
-    "A personal tutor that explains anything at your level and learning style. Build a library, take on challenges, and learn something new every day.",
+    "Your AI study mate. Get any topic explained at your level and learning style, lock it in with trivia, and turn learning into a game with friends.",
 };
 
 export const viewport: Viewport = {

@@ -1,6 +1,10 @@
-# Teach — Handoff
+# TriviaMate — Handoff
 
-**What it is:** "Explain it to me like I am ___" — a personal-tutor webapp. Mobile-first, works on desktop.
+**Brand:** TriviaMate · domain **triviamate.ai** · tagline "Learn anything. Then prove it."
+(Repo/folder still named `Teach`; Netlify project `Teach-Trivia` — cosmetic, fine to leave.)
+
+**What it is:** "Explain it to me like I am ___" — an AI study-mate webapp: explain at your level →
+prove it with trivia → play it as a group game. Mobile-first, works on desktop.
 **Status:** Phase 1 = clickable UI prototype, all mocked. No backend, no AI, no auth yet.
 
 ## Stack (decided)

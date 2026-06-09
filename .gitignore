@@ -6,6 +6,14 @@
 *.pem
 .env*
 !.env.example
+
+# secrets — never commit API keys / credentials
+*API*.txt
+*api*.txt
+*.key
+*.pem
+secrets*
+*secret*
 next-env.d.ts
 .vercel
 .netlify

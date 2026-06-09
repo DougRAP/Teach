@@ -1,10 +1,11 @@
-# Teach 🎓
+# TriviaMate 🎓
 
-**Explain it to me like I am ___.**
+**Learn anything. Then prove it.**  ·  [triviamate.ai](https://triviamate.ai)
 
-A personal-tutor webapp that meets you at your level and your learning style. Pick a topic
-(or get one suggested from your interests), get a clear explanation, build a library of
-everything you've understood, and test yourself with trivia. Mobile-first, works on desktop.
+Your AI study mate. A webapp that explains any topic at *your* level and learning style
+("explain it to me like I am ___"), locks it in with trivia, and turns learning into a game
+with friends. Pick a topic (or get one suggested from your interests), get a clear explanation,
+build a library of everything you've understood, and test yourself. Mobile-first, works on desktop.
 
 > **Status:** Phase 1 — clickable UI prototype. The flow is complete but data is mocked
 > (no backend, AI, or auth yet). See [HANDOFF.md](./HANDOFF.md) for the full roadmap.

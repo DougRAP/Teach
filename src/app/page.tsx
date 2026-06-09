@@ -130,7 +130,9 @@ function Logo() {
   return (
     <div className="mb-1 flex items-center gap-2">
       <span className="grid h-9 w-9 place-items-center rounded-xl bg-brand text-lg shadow-glow">🎓</span>
-      <span className="text-lg font-bold tracking-tight">Teach</span>
+      <span className="text-lg font-bold tracking-tight">
+        Trivia<span className="text-brand">Mate</span>
+      </span>
     </div>
   );
 }
@@ -148,11 +150,11 @@ function Welcome({
     <section className="flex min-h-[80dvh] flex-col justify-center">
       <Logo />
       <h1 className="mt-6 text-3xl font-extrabold leading-tight">
-        Explain it to me <span className="text-brand">like I am…</span>
+        Learn anything. <span className="text-brand">Then prove it.</span>
       </h1>
       <p className="mt-3 text-muted">
-        A tutor that meets you at your level and your style. Learn anything in minutes — and keep a
-        library of everything you&apos;ve understood.
+        Your AI study mate. Get any topic explained at your level and style — then lock it in with
+        trivia, and turn learning into a game with friends.
       </p>
       <input
         value={profile.name}
